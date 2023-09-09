@@ -1,0 +1,14 @@
+What the client need?
+The client need this requisits below:
+1 - It to creates a certification its employers automatic
+2 - It to sends e-mail at HR (Human Recurses) about news certifications
+3 - It to stores certifications its employers every time that create one.
+4 - It to Changes score of certifications its employer
+
+How we (Koola Software) will build this software?
+We go:
+1 - .NET for Back-End 
+2 - Angular for front-end
+3 - PostgreSQL for manage database
+4 - SMTP for send e-mail
+5 - on application WEB
